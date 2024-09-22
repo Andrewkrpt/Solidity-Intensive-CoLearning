@@ -15,6 +15,8 @@ Arvid, 在上海台北各做過一個web3項目運營。
 ## Notes
 
 <!-- Content_START -->
+### 2024.09.22
+提早一天學習Solidity
 
 ### 2024.09.23
 
